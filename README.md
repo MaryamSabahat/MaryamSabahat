@@ -4,15 +4,25 @@
 <h3 align="center">Aspiring Data Analyst dedicated to unraveling insights from data. Eager to apply foundational skills in statistical analysis and data visualization. Currently honing proficiency in Python, SQL, and machine learning. Excited about contributing to data-driven decision-making and eager to collaborate on analytical projects. Let's embark on this data journey together!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif">
 
+
+
+
+
 - 🔭 I’m currently working on **Data Analysis Projects**
+
+
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
+
+
 - 👯 I’m looking to collaborate on **Data Visualization**
+
 
 - 💬 Ask me about **Web Scrapping , Data Analysis**
 
-- 📫 How to reach me **maryamsabahat08@gmail.com**
+
+- 📫 How to reach me 📧 **maryamsabahat08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
